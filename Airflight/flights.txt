@@ -1,0 +1,27 @@
+26
+Airbus*Vatican*1123
+Turkish Airlines*New York*1345
+Airbus*Antananarivo*1032
+Delta*Kosovo*1011
+United*New Oklahoma*1234
+Airbus*Kosovo*1198
+Turkish Airlines*Antananarivo*1001
+Turkish Airlines*New Oklahoma*1527
+Delta*Vatican*1132
+United*Antananarivo*1156
+United*Kosovo*1324
+Turkish Airlines*New Oklahoma*7845
+Delta*Antananarivo*5123
+Airbus*New York*6357
+United*Vatican*2401
+Turkish Airlines*Kosovo*9173
+Airbus*Antananarivo*4089
+Delta*NewOklahoma*3265
+United*Kosovo*5921
+Airbus*New York*7896
+Turkish Airlines*Kosovo*2156
+United*Vatican*4632
+Delta*New York*5014
+Turkish Airlines*Antananarivo*6801
+Airbus*New Oklahoma*1472
+Delta*Kosovo*8123
